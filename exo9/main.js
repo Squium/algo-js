@@ -21,7 +21,7 @@ class Pokemon {
     if (this.isLucky()) { //Si le Pokémon a de la chance
       let dommages = this.attack - pokemon.defense;
       pokemon.hp -= dommages;
-      console.log(this.name, "a attaqué", pokemon.name, "perdant", dommages, "hp !");
+      console.log(this.name, "a attaqué", pokemon.name, "perdant", dommages, "hp et n'a plus que", this.hp, "hp !" ); 
     } else {
       console.log(this.name, "a raté son attaque");
     }
