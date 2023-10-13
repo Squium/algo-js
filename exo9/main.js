@@ -33,7 +33,7 @@ class Pokemon {
 //Création Pokémons
 
 let salameche = new Pokemon("Salamèche", 50, 30, 180, 55); // Salamèche a 50 PAtt, 30 PDef, 180 PV et 55% de chance de toucher son adversaire
-let evoli = new Pokemon("Évoli", 55, 35, 120, 65); // Évoli a 55 PA, 35 PD, 120 PV et 65% de chance de toucher son adversaire
+let evoli = new Pokemon("Évoli", 55, 35, 90, 65); // Évoli a 55 PA, 35 PD, 90 PV et 65% de chance de toucher son adversaire
 
 //Boucle d'attaques Pokémons
 
