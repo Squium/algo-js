@@ -50,3 +50,6 @@ if (salameche.hp <= 0) {
   console.log("Salamèche a gagné contre Évoli !"); //Sinon, Salamèche a gagné
 }
 
+console.log(salameche);
+salameche = new Pokemon("Évoli", 55, 35, 90, 65)
+console.log(salameche); 
