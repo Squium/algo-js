@@ -53,7 +53,7 @@ let randomattack = 0; //Nombre aléatoire pour le survivant attaqué aléatoirem
 
 //Création des noms des survivants -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-let NomsSurvivants = ["Romain","André","Anissa","Jean-Marc","Stéphanie","Dominique","Jade","Benjamin","Olivia","Gracia","Lucas","Louis","Maxence","Taos","Sylvie","Evelyne","Thierry","Jeff","Jules","Annick","Yvonne","Constentin","Elon Musk","Brigitte","Charles","Cyril","Cédric","Monique","René"];
+let NomsSurvivants = ["Alicia","Romain","André","Anissa","Jean-Marc","Stéphanie","Dominique","Jade","Benjamin","Olivia","Gracia","Lucas","Louis","Maxence","Taos","Sylvie","Evelyne","Thierry","Jeff","Jules","Annick","Yvonne","Constentin","Elon Musk","Brigitte","Charles","Cyril","Cédric","Monique","René"];
 
 
 //Classe des survivants -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
